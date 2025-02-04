@@ -33,5 +33,5 @@ A web-based application for managing sports tournaments, players, teams, and mat
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/sports-tournament-management-system.git
-   cd sports-tournament-management-system
+   git clone https://github.com/NikkathZabeen/Tournament-manageemnt-system/tree/main
+   cd tournament-management-system
